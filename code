@@ -1,0 +1,12 @@
+#hi
+fucks_i_give_about_this_code=0
+
+fucker="Hello World"
+
+sams_pp=[]
+
+for fucks in fucker:
+    sams_pp.append(fucks)
+
+for shit in (sams_pp):
+    print(shit)
